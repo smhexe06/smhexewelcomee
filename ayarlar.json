@@ -1,0 +1,20 @@
+{
+  "tokens": [
+    "Token 1",
+    "Token 2",
+    "Token 3" ],
+  
+  "channels": [
+    "1 SES KANAL İD",
+    "2 SES KANAL İD",
+    "3 SES KANAL İD" ],
+
+  "yetkilirol": [
+    "Yetkili Rol İd"],
+
+  "kayıtsızrol": [
+    "Kayıtsız Rol İd"],
+  
+  "hosgeldinses": "https://cdn.discordapp.com/attachments/996472821876260924/996472906370519150/tts_file.mp3",
+  "yetkilises": "https://cdn.discordapp.com/attachments/996472821876260924/996472930571657287/tts_file_1.mp3"
+}
